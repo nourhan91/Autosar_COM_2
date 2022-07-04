@@ -1,0 +1,3 @@
+﻿  Com.cpp
+D:\Source\Repos\qtautosar\Com.cpp(413): warning C4715: 'Com_CheckUpdatedbit': not all control paths return a value
+  QtWidgetsApplication7.vcxproj -> D:\Source\Repos\qtautosar\x64\Debug\QtWidgetsApplication7.exe
